@@ -1,21 +1,23 @@
-### Hi there 👋
+### Hello 👋
 
 Welcome to my github profile where I'm actively working on game development.
 Here you'll find all my old and new game projects, so have a browse!
 Let me know what you think [here](https://www.twitter.com/AlexDonisthorpe)!
 
-I'm also currently looking for:
+# 🌱 I'm currently looking for:
  * A Junior Game Development Role
  * A Mentor
  * Like-minded friends!
 
-I'm currently working on:
+# 🔭 I'm currently working on:
  * Updating the ["Polar"](https://alixxir.itch.io/polar) game developed for the GameJobsLive 2021 Game Jam!
  * Catcher, a mobile arcade game inspired by Coconut Dodge
 
-# Links
+# Links 💬
 [My Portolio](https://alex.donisthorpe.me)
+
 [Twitter](https://www.twitter.com)
+
 [Email](alex@donisthorpe.me)
 
 
