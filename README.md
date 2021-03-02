@@ -7,8 +7,8 @@ Here you'll find all my old and new game projects, so have a browse!
 Let me know what you think! 🤔
  
 # 🌱 I'm currently looking for:
- * A Junior Game Development Role
- * A Mentor
+ * A junior game development role
+ * A mentor
  * Like-minded friends!
 
 # 🔭 I'm currently working on:
