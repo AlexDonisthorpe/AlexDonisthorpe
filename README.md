@@ -4,8 +4,8 @@ Welcome to my github profile where I'm actively working on game development.
 
 Here you'll find all my old and new game projects, so have a browse!
 
-Let me know what you think [here](https://www.twitter.com/AlexDonisthorpe)!
-
+Let me know what you think! 🤔
+ 
 # 🌱 I'm currently looking for:
  * A Junior Game Development Role
  * A Mentor
@@ -18,7 +18,7 @@ Let me know what you think [here](https://www.twitter.com/AlexDonisthorpe)!
 # Links 💬
 [My Portolio](https://alex.donisthorpe.me)
 
-[Twitter](https://www.twitter.com)
+[Twitter](https://www.twitter.com/AlexDonisthorpe)
 
 [Email](alex@donisthorpe.me)
 
