@@ -1,7 +1,9 @@
 ### Hello 👋
 
 Welcome to my github profile where I'm actively working on game development.
+
 Here you'll find all my old and new game projects, so have a browse!
+
 Let me know what you think [here](https://www.twitter.com/AlexDonisthorpe)!
 
 # 🌱 I'm currently looking for:
