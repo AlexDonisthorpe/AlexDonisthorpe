@@ -20,7 +20,7 @@ Let me know what you think! 🤔
 
 [Twitter](https://www.twitter.com/AlexDonisthorpe)
 
-[Email](alex@donisthorpe.me)
+Email : alex@donisthorpe.me
 
 
 <!--
