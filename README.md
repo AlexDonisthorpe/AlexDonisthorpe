@@ -12,7 +12,7 @@ Let me know what you think! 🤔
  * Like-minded friends!
 
 # 🔭 I'm currently working on:
- * Updating the ["Polar"](https://alixxir.itch.io/polar) game developed for the GameJobsLive 2021 Game Jam!
+ * Re-learning C++ for game development
  * Catcher, a mobile arcade game inspired by Coconut Dodge
 
 # Links 💬
