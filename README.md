@@ -13,7 +13,8 @@ Let me know what you think! 🤔
 
 # 🔭 I'm currently working on:
  * Re-learning C++ for game development
- * Catcher, a mobile arcade game inspired by Coconut Dodge
+ * Learning Unreal Basics
+ * Playing around with SDL
 
 # Links 💬
 [My Portolio](https://alex.donisthorpe.me)
