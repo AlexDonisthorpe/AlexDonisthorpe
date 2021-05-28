@@ -12,9 +12,9 @@ Let me know what you think! 🤔
  * Like-minded friends!
 
 # 🔭 I'm currently working on:
- * Re-learning C++ for game development
- * Learning Unreal Basics
+ * Learning Unreal
  * Playing around with SDL
+ * Trying new things in C++
 
 # Links 💬
 [My Portolio](https://alex.donisthorpe.me)
