@@ -13,7 +13,7 @@ Let me know what you think! 🤔
 
 # 🔭 I'm currently working on:
  * Learning Unreal's Multiplayer features ⚡
- * Panicing about Algorithms 🤔
+ * Panicking about Algorithms 🤔
  * Prepping for my next Game Jam 😄
 
 # Links 💬
