@@ -12,9 +12,9 @@ Let me know what you think! 🤔
  * Like-minded friends!
 
 # 🔭 I'm currently working on:
- * Learning Unreal's Multiplayer features
- * Panicing about Algorithms
- * Prepping for my next Game Jam
+ * Learning Unreal's Multiplayer features ⚡
+ * Panicing about Algorithms 🤔
+ * Prepping for my next Game Jam 😄
 
 # Links 💬
 [My Portolio](https://alex.donisthorpe.me)
