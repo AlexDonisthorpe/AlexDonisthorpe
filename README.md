@@ -1,27 +1,9 @@
 ### Hello 👋
 
-Welcome to my github profile where I'm actively working on game development.
+Welcome to my github! a lot of this stuff is very old, but feel free to take a look around :)
 
-Here you'll find all my old and new game projects, so have a browse!
-
-Let me know what you think! 🤔
- 
-# 🌱 I'm currently looking for:
- * A junior game development role
- * A mentor
- * Like-minded friends!
-
-# 🔭 I'm currently working on:
- * Learning Unreal's Multiplayer features ⚡
- * Panicking about Algorithms 🤔
- * Prepping for my next Game Jam 😄
-
-# Links 💬
-[My Portolio](https://alex.donisthorpe.me)
-
-[Twitter](https://www.twitter.com/AlexDonisthorpe)
-
-Email : alex@donisthorpe.me
+Cheers,
+Ten
 
 
 <!--
